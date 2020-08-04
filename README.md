@@ -1,2 +1,2 @@
 # Bulma
-Made Bulma library in one compact file
+Bulma library in one compact file
